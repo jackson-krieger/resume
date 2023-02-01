@@ -1,9 +1,10 @@
 # Jackson Krieger
-**email** jacksonkrieger@mines.edu
+**email:** jacksonkrieger@mines.edu
 
 **Address:** Golden, CO
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3DReuleaux%2Btriangle&psig=AOvVaw1tktIGcnG4QVaiwswmmg_k&ust=1675373818558000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLDsqfyj9fwCFQAAAAAdAAAAABAE)
+![15DEC82F-967A-40D7-9967-4686536DDFE3_1_105_c](https://user-images.githubusercontent.com/118387392/216171459-329e14bd-c30a-4b5e-b3fa-513c59525c11.jpeg)
+
 
 ## Education
 ### Colorado School of Mines, 2022--Present
